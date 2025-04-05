@@ -15,7 +15,7 @@ Clone the repository:
 bash
 Run
 Copy code
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/Jana-vamsi/calculator-code.git
 Navigate to the project directory:
 bash
 Run
